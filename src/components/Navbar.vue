@@ -18,7 +18,7 @@
             
             <a 
               class="btn btn-primary mx-2 navbar-menu-btn" 
-              href="https://ionic.money" 
+              href="https://app.ionic.money" 
               target="_blank"
             >Go to Ionic</a>
 
